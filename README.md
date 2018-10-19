@@ -1,5 +1,5 @@
 # CodilityPracticeLessons
-These are oerfect-score (100%) solutions to Codility's practice lessons page located @ app.codility.com/programmers/lessons/.
+These are perfect-score (100%) solutions to Codility's practice lessons page located @ app.codility.com/programmers/lessons/.
 
 You can freely use these solutions to study them and to write your own in a different programming language. You may not freely use these solutions to gain 100% marks in the Codility practice tests - this would cause no real usefulness at all. So, for example, if you see the solution in Go, study it and write your own in C#.
 
