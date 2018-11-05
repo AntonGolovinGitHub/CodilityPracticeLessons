@@ -7,4 +7,6 @@ On top of each solution file is the link to the Codility practice test for you t
 
 These sorts of problems are great for polishing your coding and algorithm-optimization skills.
 
+You can find the problems @ app.codility.com/programmers/lessons/.
+
 
